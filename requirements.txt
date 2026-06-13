@@ -1,0 +1,17 @@
+python-dotenv
+pydantic
+pydantic-settings
+pymupdf
+rich
+langchain-core
+langchain-text-splitters
+openai
+langchain-huggingface
+langchain-chroma
+chromadb
+sentence-transformers
+langchain-deepseek
+langgraph
+fastapi
+uvicorn[standard]
+python-multipart
