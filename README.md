@@ -1,6 +1,6 @@
 # Edu-RAG-Agent
 
-Edu-RAG-Agent 是一个面向课程资料的本地 Agentic RAG 知识库问答原型，用于学习和实习项目展示。用户可以上传 PDF 或 Markdown，建立本地向量索引，并在 Basic RAG 与 LangGraph Agentic RAG 两种模式下提问和查看来源。
+Edu-RAG-Agent 是一个面向课程资料的本地 Agentic RAG 知识库问答原型，用户可以上传 PDF 或 Markdown，建立本地向量索引，并在 Basic RAG 与 LangGraph Agentic RAG 两种模式下提问和查看来源。
 
 这是一个可本地运行的 v0 原型，不是生产级、高并发或大规模知识库系统。
 
